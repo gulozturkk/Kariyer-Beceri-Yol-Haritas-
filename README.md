@@ -93,16 +93,6 @@ Bu proje, kullanıcıların kariyer hedeflerini, öğrenmek istedikleri becerile
 
 ---
 
-## 📸 Ekran Görüntüleri
-
-### Ana Sayfa — Kanban Board
-![Kanban Board](./screenshots/kanban-board.png)
-
-### Yeni Hedef / Beceri Ekleme Modalı
-![Yeni Hedef Ekle](./screenshots/yeni-hedef-ekle.png)
-
----
-
 ## ⚙️ Kurulum
 
 ### Gereksinimler
