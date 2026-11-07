@@ -182,6 +182,11 @@ npm run build
 Sonrasında `dist/` klasörü deploy platformuna yüklenebilir.
 
 ---
+### Canlı Demo
+
+[Uygulamayı canlı görüntüle](https://web-gelistirme-yapay-zeka.vercel.app)
+
+---
 
 ## ✅ Son Durum
 
